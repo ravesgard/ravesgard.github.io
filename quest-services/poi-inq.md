@@ -20,6 +20,8 @@
 
 [5. What You Need for INQ](#what-you-need-for-inq)
 
+[6. Volunteer Information](#volunteer-information)
+
 ### WELCOME
 
 Welcome to the information page for POI/INQ quest services hosted by Causality on Noctera! If you have never participated in our quest service before, please read this entire page so you are ready and prepared to complete the quest service with us successfully. Both **Pits&nbsp;of&nbsp;Inferno** (_referred to as "POI"_) and **Inquisition** (_referred to as "INQ"_) are intricate quests, where stepping on the wrong square means you die, so listen to the volunteers running the event!
@@ -73,3 +75,26 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 **INQ #5** - Completion of at least one throne/seal from POI
 
 **INQ #6** - **STAGING AREA: Edron Depot** (starting 15 minutes prior for party invites and fees)
+
+### VOLUNTEER INFORMATION
+
+We need volunteers (waste will be compensated) to help run the quests. If you're interested, please PM **@Raves&nbsp;Gard#6886**.
+
+For this quest event, we need 1x of each vocation minimum.
+
+| Role | Volunteer | Rank/Voc | Discord |
+| ---- | --------- | -------- | ------- |
+| **COORD-01** | Raves Gard | 225EK | **@Raves&nbsp;Gard#6886** |
+| **COORD-02** | Loggins of dangerzone | 469EK | **@Myles-&nbsp;Loggins&nbsp;of&nbsp;dangerzone#9470** |
+| **LEVERS** | TBA | | |
+| **ED** | TBA | | |
+| **EK** | TBA | | |
+| **MS** | TBA | | |
+| **RP** | TBA | | |
+
+**----- SUGGESTED VOLUNTEER REQUIREMENTS (non-binding) -----**
++ Level 150 minimum
++ Previous completion of both POI & INQ
++ Fluent experience in the TH dynamic
+
+Thank you to all the volunteers of POIs'/INQs' past, including (but not limited to) **Bozii**, **Loggins of dangerzone**, **Grimley**, **Galen Nightbringer**, **Luke Starkiller**, and **Wesipitu**. Your service to the guild is as always greatly appreciated by all participants!
