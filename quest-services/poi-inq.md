@@ -1,6 +1,4 @@
-# Quest Service
-## Pits of Inferno Quest (POI)
-## Inquisition Quest (INQ)
+# POI/INQ Quest Service
 
 **Table of Contents:**
 
