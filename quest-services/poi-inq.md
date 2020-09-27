@@ -106,13 +106,13 @@ Thank you to all the volunteers of POIs'/INQs' past, including (but not limited 
 
 | Participant | POI | INQ | Discord |
 | ----------- | --- | --- | ------- |
-| Dancelhde | | COMP | |
+| Champagne Pally | COMP | COMP | |
 | Itachi Shadowbourne | COMP | COMP | |
 | Keslo Shadowbourne | COMP | COMP | |
-| Champagne Pally | COMP | COMP | |
+| Entelechy Shadowbourne | COMP | | |
+| Dancelhde | | COMP | |
+| Dilvelus | | COMP | |
+| Glen | | COMP | |
 | Ground hunter | | COMP | |
 | Lightbearer Ravena | | COMP | |
-| Glen | | COMP | |
-| Entelechy Shadowbourne | COMP | | |
 | Reckziegel | | COMP | |
-| Dilvelus | | COMP | |
