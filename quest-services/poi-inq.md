@@ -26,9 +26,9 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 **RULE #4** - _**Answer Your Own Questions:** If you ask a question that has already been answered by this POI/INQ reference page, that question will be ignored. There are a lot of people asking lots of different questions, that we can only focus on the ones that are not already answered by the information we've provided on this page. **If your question is being ignored, this rule is why.**_
 
-**RULE #5** - _**Keep Channels Clear:** Any posts on the text channel (#poiinq on [Causality Discord Server](https://discord.gg/zbUvG4k)) that are not about POI/INQ will be deleted - this channel is only for POI/INQ related conversation. Please limit your conversation on the voice channel (#POI/INQ on [Causality Discord Server](https://discord.gg/zbUvG4k)) to POI/INQ related conversation where appropriate, so volunteers can coordinate effectively and participants can be heard when they need assistance._
+**RULE #5** - _**Keep Channels Clear:** Any posts on the text channel (#poiinq on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) that are not about POI/INQ will be deleted - this channel is only for POI/INQ related conversation. Please limit your conversation on the voice channel (#POI/INQ on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) to POI/INQ related conversation where appropriate, so volunteers can coordinate effectively and participants can be heard when they need assistance._
 
-**RULE #6** - _**Ignore Us On Discord At Your Own Risk:** If you are participating in this quest service and are not connected to the voice channel (#POI/INQ on [Causality Discord Server](https://discord.gg/zbUvG4k)) during the quest service and you run into problems, that's your own problem. Support will only be provided in voice channel. Support will not be provided via chat messages within Tibia._
+**RULE #6** - _**Ignore Us On Discord At Your Own Risk:** If you are participating in this quest service and are not connected to the voice channel (#POI/INQ on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) during the quest service and you run into problems, that's your own problem. Support will only be provided in voice channel. Support will not be provided via chat messages within Tibia._
 
 ### GENERAL PARTICIPATION REQUIREMENTS
 
@@ -38,7 +38,7 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 **REQ #3** - Guests must reserve their spot a minimum of 3 hours in advance of the POI/INQ Service by mailing in your participation fee to **Raves&nbsp;Gard** by parcel _along with a letter stating the participating character name, level, vocation and which events you are attending (POI, INQ, or BOTH)_
 
-**REQ #4** - **PARTICIPATION FEES WILL NO LONGER BE ACCEPTED AT THE STAGING AREA** - see REQ # 3 regarding guest reservations.
+**REQ #4** - **PARTICIPATION FEES WILL NO LONGER BE ACCEPTED AT THE STAGING AREA** - see REQ #3 regarding guest reservations.
 
 **REQ #5** - This service is expected to last 2.5 hours (1 hour for each quest with 30 minutes refill/regroup time in between) but can last longer. We will do our best to start on time but provide no guarantees.
 
