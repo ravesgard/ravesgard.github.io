@@ -1,5 +1,13 @@
 # POI/INQ Quest Service
 
+> **OUR NEXT QUEST SERVICE IS SCHEDULED FOR:**
+>
+> **SATURDAY, OCTOBER 24TH, 2020**
+>
+> **9pm EST / 9pm VET / 8pm CST / 11am AUS**
+>
+> **(Server Save + 17 hours)**
+
 **Table of Contents:**
 
 [1. Welcome!](#welcome)
