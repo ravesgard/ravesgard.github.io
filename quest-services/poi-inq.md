@@ -78,7 +78,7 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 ### VOLUNTEER INFORMATION
 
-We need volunteers (waste will be compensated) to help run the quests. If you're interested, please PM **@Raves&nbsp;Gard#6886**.
+We need volunteers (waste will be compensated) to help run the quests. Please PM **@Raves&nbsp;Gard#6886** if you're interested.
 
 For this quest event, we need 1x of each vocation minimum.
 
