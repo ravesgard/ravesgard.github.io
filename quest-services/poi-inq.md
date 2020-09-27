@@ -28,6 +28,8 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 **RULE #5** - _**Keep Channels Clear:** Any posts on the text channel (#poiinq on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) that are not about POI/INQ will be deleted - this channel is only for POI/INQ related conversation. Please limit your conversation on the voice channel (#POI/INQ on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) to POI/INQ related conversation where appropriate, so volunteers can coordinate effectively and participants can be heard when they need assistance._
 
+**RULE #6** - _**Complementary Readmission:** In some cases where time permits, volunteers may choose to re-run thrones/seals you have missed but this is not a guarantee. The decision to redo a throne is up to the sole discretion of the coordinator(s) and volunteer(s). If you are unable to complete POI in the time alotted because you missed one or more thrones/seals then the coordinator(s) may at their sole discretion decide to provide you with completementary readmission during the next POI/INQ service. **Failing to complete either quest as paid for is not a guarantee of a refund.** Decisions on these matters (redos and readmissions) are final.
+
 ### GENERAL PARTICIPATION REQUIREMENTS
 
 **REQ #1** - Free for guild members of Causality, and their alt characters.
