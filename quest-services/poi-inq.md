@@ -14,11 +14,11 @@
 
 ### WELCOME
 
-Welcome to the information page for POI/INQ quest services hosted by Causality on Noctera! If you have never participated in our quest service before, please read this entire page so you are ready and prepared to complete the quest service with us successfully. Both **Pits of Inferno** (_referred to as "POI"_) and **Inquisition** (_referred to as "INQ"_) are intricate quests, where stepping on the wrong square means you die, so listen to the volunteers running the event!
+Welcome to the information page for POI/INQ quest services hosted by Causality on Noctera! If you have never participated in our quest service before, please read this entire page so you are ready and prepared to complete the quest service with us successfully. Both **Pits&nbsp;of&nbsp;Inferno** (_referred to as "POI"_) and **Inquisition** (_referred to as "INQ"_) are intricate quests, where stepping on the wrong square means you die, so listen to the volunteers running the event!
 
 ### BASIC RULES
 
-**RULE #1** - _**Questions Regarding Service:** Direct your POI/INQ questions to **@Raves Gard#6886** (on Discord) and him only. Guild Leadership is focused on managing the guild as a whole, and doesn't need to be taken away from this important task to answer event service questions._
+**RULE #1** - _**Questions Regarding Service:** Direct your POI/INQ questions to **@Raves&nbsp;Gard#6886** (on Discord) and him only. Guild Leadership is focused on managing the guild as a whole, and doesn't need to be taken away from this important task to answer event service questions._
 
 **RULE #2** - _**Questing Errors / No Reward Room Access:** We take zero responsibility for people who refuse to use the Discord Voice Channel to listen to the careful and precise instructions provided by our volunteers. If you go ahead of the pack and get sniped, or double step, or miss a throne/portal/seal, you will not be refunded your fee. It is your responsibility to have Discord open and be connected to the voice channel. Our volunteers are there to guide you through these very intricate quests._
 
@@ -36,7 +36,7 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 **REQ #2** - 50k fee per quest (that's 50k for POI _and another_ 50k for INQ) for "Guests" (non-guild-members)
 
-**REQ #3** - Guests must reserve their spot a minimum of 3 hours in advance of the POI/INQ Service by mailing in your participation fee to **Raves Gard** by parcel _along with a letter stating the participating character name, level, vocation and which events you are attending (POI, INQ, or BOTH)_
+**REQ #3** - Guests must reserve their spot a minimum of 3 hours in advance of the POI/INQ Service by mailing in your participation fee to **Raves&nbsp;Gard** by parcel _along with a letter stating the participating character name, level, vocation and which events you are attending (POI, INQ, or BOTH)_
 
 **REQ #4** - **PARTICIPATION FEES WILL NO LONGER BE ACCEPTED AT THE STAGING AREA** - see REQ # 3 regarding guest reservations.
 
