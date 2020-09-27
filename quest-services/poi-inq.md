@@ -82,10 +82,10 @@ We need volunteers (waste will be compensated) to help run the quests. If you're
 
 For this quest event, we need 1x of each vocation minimum.
 
-| Role | Volunteer | Rank/Voc | Discord |
+| Role | Volunteer | Level | Discord |
 | ---- | --------- | -------- | ------- |
-| **COORD-01** | Raves Gard | 225EK | **@Raves&nbsp;Gard#6886** |
-| **COORD-02** | Loggins of dangerzone | 469EK | **@Myles-&nbsp;Loggins&nbsp;of&nbsp;dangerzone#9470** |
+| **COORD** | Raves&nbsp;Gard | 225EK | **@Raves&nbsp;Gard#6886** |
+| **COORD** | Loggins&nbsp;of&nbsp;dangerzone | 469EK | **@Myles-&nbsp;Loggins&nbsp;of&nbsp;dangerzone#9470** |
 | **LEVERS** | TBA | | |
 | **ED** | TBA | | |
 | **EK** | TBA | | |
