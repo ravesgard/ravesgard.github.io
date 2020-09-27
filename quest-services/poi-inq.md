@@ -94,7 +94,7 @@ For this quest event, we need 1x of each vocation minimum.
 | **MS** | TBA | | |
 | **RP** | TBA | | |
 
-** SUGGESTED VOLUNTEER REQUIREMENTS (non-binding) **
+**SUGGESTED VOLUNTEER REQUIREMENTS (non-binding)**
 
 + Level 150 minimum
 + Previous completion of both POI & INQ
