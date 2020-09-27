@@ -26,7 +26,9 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 **RULE # 4** - _**Answer Your Own Questions:** If you ask a question that has already been answered by a pinned post in this channel, that question will be ignored. There are a lot of people asking lots of different questions, that we can only focus on the ones that are not already answered by the information we've provided in this channel. **If your question is being ignored, this rule is why.**_
 
-**RULE # 5** - _**Keep Channels Clear:** Any posts on the #poiinq text channel (on Causality Discord) that are not about POI/INQ will be deleted - this channel is only for POI/INQ related conversation. Please limit your conversation on the #POI/INQ voice channel (on Causality Discord) to POI/INQ related conversation where appropriate, so volunteers can coordinate effectively and participants can be heard when they need assistance._
+**RULE # 5** - _**Keep Channels Clear:** Any posts on the text channel (#poiinq on [Causality Discord Server](https://discord.gg/zbUvG4k)) that are not about POI/INQ will be deleted - this channel is only for POI/INQ related conversation. Please limit your conversation on the voice channel (#POI/INQ on [Causality Discord Server](https://discord.gg/zbUvG4k)) to POI/INQ related conversation where appropriate, so volunteers can coordinate effectively and participants can be heard when they need assistance._
+
+**RULE # 6** - _**Ignore Us On Discord At Your Own Risk:** If you are participating in this quest service and are not connected to the voice channel (#POI/INQ on [Causality Discord Server](https://discord.gg/zbUvG4k)) during the quest service and you run into problems, that's your own problem. Support will only be provided in voice channel._
 
 ### GENERAL PARTICIPATION REQUIREMENTS
 
