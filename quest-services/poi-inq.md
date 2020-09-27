@@ -1,9 +1,6 @@
----
-layout: default
-title: Pits of Inferno (POI) & Inquisition (INQ) Quest Service
----
-
-# Pits of Inferno (POI) & Inquisition (INQ) Quest Service
+# Quest Service
+## Pits of Inferno Quest (POI)
+## Inquisition Quest (INQ)
 
 **Table of Contents:**
 
