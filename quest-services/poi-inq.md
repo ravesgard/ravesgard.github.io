@@ -20,15 +20,13 @@ Welcome to the information page for POI/INQ quest services hosted by Causality o
 
 **RULE #1** - _**Questions Regarding Service:** Direct your POI/INQ questions to **@Raves&nbsp;Gard#6886** (on Discord) and him only. Guild Leadership is focused on managing the guild as a whole, and doesn't need to be taken away from this important task to answer event service questions._
 
-**RULE #2** - _**Questing Errors / No Reward Room Access:** We take zero responsibility for people who refuse to use the Discord Voice Channel to listen to the careful and precise instructions provided by our volunteers. If you go ahead of the pack and get sniped, or double step, or miss a throne/portal/seal, you will not be refunded your fee. It is your responsibility to have Discord open and be connected to the voice channel. Our volunteers are there to guide you through these very intricate quests._
+**RULE #2** - _**Questing Errors / No Reward Room Access:** We take zero responsibility for people who refuse to use the Voice Channel (#POI/INQ on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) to listen to the careful and precise instructions provided by our volunteers. If you go ahead of the pack and get sniped, or double step, or miss a throne/portal/seal, you will not be refunded your fee. It is your responsibility to have Discord open and be connected to the voice channel. Our volunteers are there to guide you through these very intricate quests. Support will only be provided in voice channel. **Support will not be provided via chat messages within Tibia.**_
 
 **RULE #3** - _**Staging Areas:** If you do not meet at the designated staging area to be accepted into the service party, you will be PK'ed if we see you at the event area. **Only at the Staging Area will participants be added to the service party.**_
 
 **RULE #4** - _**Answer Your Own Questions:** If you ask a question that has already been answered by this POI/INQ reference page, that question will be ignored. There are a lot of people asking lots of different questions, that we can only focus on the ones that are not already answered by the information we've provided on this page. **If your question is being ignored, this rule is why.**_
 
 **RULE #5** - _**Keep Channels Clear:** Any posts on the text channel (#poiinq on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) that are not about POI/INQ will be deleted - this channel is only for POI/INQ related conversation. Please limit your conversation on the voice channel (#POI/INQ on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) to POI/INQ related conversation where appropriate, so volunteers can coordinate effectively and participants can be heard when they need assistance._
-
-**RULE #6** - _**Ignore Us On Discord At Your Own Risk:** If you are participating in this quest service and are not connected to the voice channel (#POI/INQ on [Causality&nbsp;Discord&nbsp;Server](https://discord.gg/zbUvG4k)) during the quest service and you run into problems, that's your own problem. Support will only be provided in voice channel. Support will not be provided via chat messages within Tibia._
 
 ### GENERAL PARTICIPATION REQUIREMENTS
 
