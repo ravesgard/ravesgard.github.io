@@ -22,6 +22,8 @@
 
 [6. Volunteer Information](#volunteer-information)
 
+[7. Registered Participants](#registered-participants-october-24th-2020)
+
 ### WELCOME
 
 Welcome to the information page for POI/INQ quest services hosted by Causality on Noctera! If you have never participated in our quest service before, please read this entire page so you are ready and prepared to complete the quest service with us successfully. Both **Pits&nbsp;of&nbsp;Inferno** (_referred to as "POI"_) and **Inquisition** (_referred to as "INQ"_) are intricate quests, where stepping on the wrong square means you die, so listen to the volunteers running the event!
@@ -92,9 +94,25 @@ For this quest event, we need 1x of each vocation minimum.
 | **MS** | TBA | | |
 | **RP** | TBA | | |
 
-**----- SUGGESTED VOLUNTEER REQUIREMENTS (non-binding) -----**
+** SUGGESTED VOLUNTEER REQUIREMENTS (non-binding) **
+
 + Level 150 minimum
 + Previous completion of both POI & INQ
 + Fluent experience in the TH dynamic
 
 Thank you to all the volunteers of POIs'/INQs' past, including (but not limited to) **Bozii**, **Loggins of dangerzone**, **Grimley**, **Galen Nightbringer**, **Luke Starkiller**, and **Wesipitu**. Your service to the guild is as always greatly appreciated by all participants!
+
+### REGISTERED PARTICPANTS OCTOBER 24TH 2020
+
+| Participant | POI | INQ | Discord |
+| ----------- | --- | --- | ------- |
+| Dancelhde | | COMP | |
+| Itachi Shadowbourne | COMP | COMP | |
+| Keslo Shadowbourne | COMP | COMP | |
+| Champagne Pally | COMP | COMP | |
+| Ground hunter | | COMP | |
+| Lightbearer Ravena | | COMP | |
+| Glen | | COMP | |
+| Entelechy Shadowbourne | COMP | | |
+| Reckziegel | | COMP | |
+| Dilvelus | | COMP | |
